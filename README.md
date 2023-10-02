@@ -33,4 +33,4 @@ Code: https://github.com/anikethmehta/LAB9/blob/main/code%20page1.png
 
   https://github.com/anikethmehta/LAB9/blob/main/code%20page4.png
 
-Output:
+Output: https://github.com/anikethmehta/LAB9/blob/main/output.png
