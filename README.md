@@ -25,6 +25,6 @@
 (4) number=5326 -> 6+rev_the_number(532) and so on and we get 6235
 
 ### ***Output Screenshot*** :
-Code:
+Code: https://github.com/anikethmehta/LAB9/blob/main/code%20page1.png
 
 Output:
