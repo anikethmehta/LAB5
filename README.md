@@ -29,4 +29,6 @@ Code: https://github.com/anikethmehta/LAB9/blob/main/code%20page1.png
 
   https://github.com/anikethmehta/LAB9/blob/main/code%20page2.png
 
+  https://github.com/anikethmehta/LAB9/blob/main/code%20page3.png
+
 Output:
